@@ -1,0 +1,21 @@
+.talbe1{
+    text-align: center;
+    color:gray;
+    color: mediumspringgreen;
+}
+.footer{
+    text-align: center;
+    background-color: grey;
+}
+nav div a{
+    color: mintcream;
+}
+.profile{
+    background-color: mediumspringgreen;
+}
+.borrow{
+    background-color: green;
+}
+.return{
+    background-color: lightskyblue;
+}

@@ -1,0 +1,27 @@
+.footer{
+    text-align: center;
+    background-color: grey;
+}
+nav div a{
+    color: mintcream;
+}
+.talbe1{
+    text-align: center;
+    color: mediumspringgreen;
+}
+.talbe2{
+    text-align: center;
+    color:gray;
+
+}
+
+a{
+    color: black;
+    margin-left: 20px;
+}
+.return{
+    background-color:darkgreen ;
+}
+.form{
+    margin-left: 20px;
+}
