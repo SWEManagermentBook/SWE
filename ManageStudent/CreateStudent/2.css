@@ -1,0 +1,64 @@
+body {
+	color: #566787;
+	background: #f5f5f5;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 13px;
+}
+h2{
+   font-size: 13px;
+    text-align: left;
+    color: white;
+    background-color: #566787 ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:20px;
+    border-radius: 10px;
+    
+}
+.form{
+    float: left;
+    margin-left: 20%;
+    padding-top: 50px;;
+}
+img{
+    border-radius: 10px;
+   
+}
+.to{
+    float:right;
+    margin-right:40%;
+}
+label {
+    display: block;
+    font-weight: lighter;
+ 
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 100%;
+}
+ 
+input#submit {
+    padding: 7px;
+    width: 90%;
+    border-radius: 10px;
+    border: none;
+    background:  #566787;
+    bottom: 5px;
+    text-align: center;
+    color:whitesmoke;
+}
+
+input#submit1{
+   display: block;
+    border: none;
+    padding: 5px;
+    width: 90px;
+    border-radius: 10px;
+    background-color:  #566787;
+    color:whitesmoke;
+    text-align: center;
+    font-size: 12px;
+   
+}
